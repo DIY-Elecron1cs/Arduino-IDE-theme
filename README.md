@@ -1,6 +1,7 @@
 # Arduino-IDE-theme
-
-
-
+тёмная тема для Arduino IDE
 ![внешний вид](https://s2.radikal.cloud/2024/11/24/image.png)
-<img src="https://s2.radikal.cloud/2024/11/24/image.png" alt="image.png" border="0">
+![как сменить](https://s2.radikal.cloud/2024/11/24/image.png)
+## как установить
+для установки нужно заменить папку theme (она находится в Arduino > lib > theme) на одноимённую папку из репозитория.
+На всякий случай советую где-нибудь сохранить изначальную тему (можно оставить её там же, но поменять имя на, например, theme_orig).
